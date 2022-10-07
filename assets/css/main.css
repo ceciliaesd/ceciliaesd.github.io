@@ -73,14 +73,10 @@ body {
 
   #banner img {
     padding-right: 0 !important;
-    width: 50%;
+    width: 70%;
     /* align-self: center; */
     margin-bottom: 24px;
   }
-}
-
-img {
-  height: auto;
 }
 
 html {
