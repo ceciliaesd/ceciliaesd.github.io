@@ -79,6 +79,10 @@ body {
   }
 }
 
+img {
+  height: auto;
+}
+
 html {
   box-sizing: border-box; }
 
